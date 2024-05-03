@@ -16,7 +16,8 @@ no reason to multiply languages in this way: dependent type theory is
 flexible and expressive, and it turns out that there is no reason we cannot represent
 assertions and proofs in the same general framework.
 
-As an example of layering languages on top,
+<!-- As an example of layering languages on top, -- ? not clear if this is meant as an example of layering, or non-layering. -->
+For example,
 we could introduce a new type, ``Prop``, to represent
 propositions, and introduce constructors to build new propositions
 from others.
